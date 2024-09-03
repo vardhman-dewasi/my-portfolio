@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Vardhman dewasi",
+    "occupation": "Mern developer",
+    "image": "rp.jpg",
+    "bio": "Hello there! I’m Vardhman, a Mern developer, now advancing towards becoming a Software Developer. I specialize in creating scalable web applications and robust backend systems that deliver exceptional user experiences. With a strong foundation in frontend development using React, and extensive experience in backend technologies like Node.js and Express, I ensure seamless integration between client-side and server-side components. Driven by curiosity and a passion for technology, I constantly upgrade my skills to stay at the cutting edge. I thrive on challenges and excel in transforming complex requirements into high-quality solutions. Let’s connect and see how my expertise in both frontend and backend can add value to your next project.",
+    "contactMessage": "Get in touch with me!",
+    "email": "vardaramdevasi620@gmail.com",
+    "address": {
+      "city": "Jodhpur,",
+      "state": "Rajasthan"
+    },
+    "resumeDownload": "https://drive.google.com/file/d/1MmKLkplUNdjRFmIDfxQyi-qOYEseAiOt/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vardaram-dewasi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/vardhman-dewasi",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillMessage": "I specialize in",
+    "education": [
+      {
+        "school": "MBM University Jodhpur",
+        "degree": "B.E. Computer Science",
+        "graduated": "2025",
+        "description": "pursuing with 8.02 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "PHN technology Pvt Ltd",
+        "title": "Web Intern",
+        "years": "June 2023",
+        "description": "Developed a travel website using HTML, CSS, and JavaScript, showcasing popular destinations and pricing for tourists.Implemented features for destination browsing and price comparison, enhancing user engagement.Applied responsive design techniques to ensure a seamless experience across all devices.Utilized version control tools like Git and GitHub for efficient code management and collaboration."
+      }
+    ],
+
+    "skills": [
+      {
+        "name":"C/C++, Java, Python",
+        "level":"85%"
+      },
+      {
+        "name": "DSA, Object Oriented Programming",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJS , ExpressJS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript, HTML, CSS",
+        "level": "85%"
+      },
+      {
+        "name": "React, Redux",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB, PostgreSQL, MySQL",
+        "level": "85%"
+      },
+      {
+        "name": "Git, GitHub, Postman",
+        "level": "85%"
+      },
+      {
+        "name": "AWS, Vercel, Render",
+        "level": "85%"
+      },
+      {
+        "name": "Linux, Ubantu",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Learnify (MongoDB, Node.js, Express, React, Tailwindcss)",
+        "category": "web application",
+        "image": "Learnify homepage.png",
+        "url": "https://github.com/vardhman-dewasi/Learnify-app"
+      },
+      {
+        "title": "shortUrl (React, MongoDB, Node.js, Express)",
+        "category": "web application",
+        "image": "sociafy.png",
+        "url": "https://github.com/vardhman-dewasi/shortUrl"
+      },
+      {
+        "title": "Shopping App(React, Redux, Tailwindcss)",
+        "category": "web application",
+        "image": "shop.png",
+        "url": ""
+      },
+      {
+        "title": "Password Generator (Javascript, Tailwind CSS, HTML)",
+        "category": "web application",
+        "image": "password.png",
+        "url": "https://github.com/vardhman-dewasi/Password-Generator-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Winners never quit, and quitters never win.” ",
+        "user": "Vince Lombardi"
+      }
+    ]
+  }
+}
