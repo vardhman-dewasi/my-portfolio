@@ -2,7 +2,7 @@
   "main": {
     "name": "Vardhman dewasi",
     "occupation": "Mern developer",
-    "image": "",
+    "image": "vd-img.jpeg",
     "bio": "Hello there! I’m Vardhman, a Mern developer, now advancing towards becoming a Software Developer. I specialize in creating scalable web applications and robust backend systems that deliver exceptional user experiences. With a strong foundation in frontend development using React, and extensive experience in backend technologies like Node.js and Express, I ensure seamless integration between client-side and server-side components. Driven by curiosity and a passion for technology, I constantly upgrade my skills to stay at the cutting edge. I thrive on challenges and excel in transforming complex requirements into high-quality solutions. Let’s connect and see how my expertise in both frontend and backend can add value to your next project.",
     "contactMessage": "Get in touch with me!",
     "email": "vardaramdevasi620@gmail.com",
@@ -10,7 +10,7 @@
       "city": "Jodhpur,",
       "state": "Rajasthan"
     },
-    "resumeDownload": "https://drive.google.com/file/d/1MmKLkplUNdjRFmIDfxQyi-qOYEseAiOt/view?usp=drivesdk",
+    "resumeDownload": "https://drive.google.com/drive/folders/1MepoeozVizV5rSm5kud8NNbwe9DEeAwd",
     "social": [
       {
         "name": "twitter",
@@ -84,10 +84,6 @@
       },
       {
         "name": "AWS, Vercel, Render",
-        "level": "85%"
-      },
-      {
-        "name": "Linux, Ubantu",
         "level": "85%"
       }
     ]
